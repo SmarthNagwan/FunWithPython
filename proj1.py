@@ -30,7 +30,7 @@ if choice == 1:
         print("Incorrect 0")
 
     q4 = input('sum of two odd numbers will always be? ')
-    if q4 == 'odd':
+    if q4 == 'even':
         print("CORRECT +1")
         score += 1
     else:
